@@ -1,0 +1,1 @@
+{"id":"741f4b09-73ce-4c71-8bae-3a52f9c23a1f","space":36802,"runtime":"python3.9","name":"ats_api","path":"ymnly0","project":"d06h0k18","account":"144798365827","region":"ap-south-1","deps":["fastapi","uvicorn","sqlalchemy","passlib","bcrypt","python-jose","python-multipart","mysql-connector-python"],"envs":null,"public":true,"log_level":"debug","cron":""}
